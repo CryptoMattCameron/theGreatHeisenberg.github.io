@@ -3,7 +3,8 @@ layout: single
 title:  "If you want to build a billion-dollar company, you have to get your hands burnt with a hot-glue gun."
 date:   2019-03-07
 image: https://beta.techcrunch.com/wp-content/uploads/2008/10/obamaos.jpg
-categories: startups,startup-stories,airbnb
+categories: startups
+tags: [Airbnb, startups, startup-stories]
 ---
 
 The year was 2008. During a Y-Combinator interview,  [Paul Graham](http://www.paulgraham.com) dismissed the idea put forth by 3 co-founders and shouted, “People are actually doing this? Why? What’s wrong with them?”.
