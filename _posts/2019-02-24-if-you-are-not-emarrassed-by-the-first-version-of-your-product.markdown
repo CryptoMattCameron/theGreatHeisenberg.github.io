@@ -3,6 +3,7 @@ layout: single
 title:  "If you're not embarrassed by the first version of your product, you've launched too late."
 date:   2019-02-24 17:53:30 -0800
 categories: software-engineering
+comments: true
 ---
 Should we release the software based product we are working on early? or should we take our time to make it perfect and then release it?
 

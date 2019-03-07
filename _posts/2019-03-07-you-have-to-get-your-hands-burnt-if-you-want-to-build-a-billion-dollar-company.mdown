@@ -5,6 +5,7 @@ date:   2019-03-07
 image: https://beta.techcrunch.com/wp-content/uploads/2008/10/obamaos.jpg
 categories: startups
 tags: [Airbnb, startups, startup-stories]
+comments: true
 ---
 
 The year was 2008. During a Y-Combinator interview,  [Paul Graham](http://www.paulgraham.com) dismissed the idea put forth by 3 co-founders and shouted, “People are actually doing this? Why? What’s wrong with them?”.
