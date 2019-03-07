@@ -85,16 +85,19 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               :
+  username: P.shreyas1
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   :  Person# Person or Organization (defaults to Person)
+  name                   : Shreyas Panhalkar # If the user or organization name differs from the site's name
+  links: 
+    - https://www.facebook.com/P.shreyas1
+    - https://www.quora.com/profile/श्रेयस-पन्हाळकर-Shreyas-Panhalkar
+    - https://www.linkedin.com/in/shreyas3/
 
 # Analytics
 analytics:
@@ -185,7 +188,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,mdown"
 
 
 # Conversion
